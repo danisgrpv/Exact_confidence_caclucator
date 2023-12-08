@@ -1,0 +1,1 @@
+int get_success(double mean, double std, double lower_fact, double upper_fact, double survival);

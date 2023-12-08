@@ -1,0 +1,1 @@
+std::vector<double> user_generator(int SAMPLE_SIZE, int rank);
